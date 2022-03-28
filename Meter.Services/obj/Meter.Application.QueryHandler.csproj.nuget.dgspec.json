@@ -1,0 +1,166 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Application.QueryHandler/Meter.Application.QueryHandler.csproj": {}
+  },
+  "projects": {
+    "/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Application.QueryHandler/Meter.Application.QueryHandler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Application.QueryHandler/Meter.Application.QueryHandler.csproj",
+        "projectName": "Meter.Application.QueryHandler",
+        "projectPath": "/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Application.QueryHandler/Meter.Application.QueryHandler.csproj",
+        "packagesPath": "/Users/hibaeldursi/.nuget/packages/",
+        "outputPath": "/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Application.QueryHandler/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hibaeldursi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Infrastructure/Meter.Infrastructure.csproj": {
+                "projectPath": "/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Infrastructure/Meter.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.416/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Domain/Meter.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Domain/Meter.Domain.csproj",
+        "projectName": "Meter.Domain",
+        "projectPath": "/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Domain/Meter.Domain.csproj",
+        "packagesPath": "/Users/hibaeldursi/.nuget/packages/",
+        "outputPath": "/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hibaeldursi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.416/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Infrastructure/Meter.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Infrastructure/Meter.Infrastructure.csproj",
+        "projectName": "Meter.Infrastructure",
+        "projectPath": "/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Infrastructure/Meter.Infrastructure.csproj",
+        "packagesPath": "/Users/hibaeldursi/.nuget/packages/",
+        "outputPath": "/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hibaeldursi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Domain/Meter.Domain.csproj": {
+                "projectPath": "/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Domain/Meter.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.416/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

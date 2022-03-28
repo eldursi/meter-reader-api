@@ -1,0 +1,14 @@
+/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Services/bin/Debug/netstandard2.1/Meter.Services.deps.json
+/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Services/bin/Debug/netstandard2.1/Meter.Services.dll
+/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Services/bin/Debug/netstandard2.1/Meter.Services.pdb
+/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Services/bin/Debug/netstandard2.1/Meter.Domain.dll
+/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Services/bin/Debug/netstandard2.1/Meter.Infrastructure.dll
+/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Services/bin/Debug/netstandard2.1/Meter.Infrastructure.pdb
+/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Services/bin/Debug/netstandard2.1/Meter.Domain.pdb
+/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Services/obj/Debug/netstandard2.1/Meter.Services.csprojAssemblyReference.cache
+/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Services/obj/Debug/netstandard2.1/Meter.Services.AssemblyInfoInputs.cache
+/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Services/obj/Debug/netstandard2.1/Meter.Services.AssemblyInfo.cs
+/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Services/obj/Debug/netstandard2.1/Meter.Services.csproj.CoreCompileInputs.cache
+/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Services/obj/Debug/netstandard2.1/Meter.Services.csproj.CopyComplete
+/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Services/obj/Debug/netstandard2.1/Meter.Services.dll
+/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Services/obj/Debug/netstandard2.1/Meter.Services.pdb

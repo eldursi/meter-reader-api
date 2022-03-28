@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=1105238D_002D9710_002D41DC_002DBB3C_002DE23A21049A86_002Ff_003AMeterReadingValidator_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5477efe7_002D5ccc_002D412d_002D9801_002D6f43b68457b3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GivenApiController_WhenIUploadCsvFile_ThenMessageIsReturned" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::AE56CB19-EA66-412E-AFAF-FDE6194E5A53::.NETCoreApp,Version=v3.1::Meter.Api.UnitTests.UnitTest1.GivenApiController_WhenIUploadCsvFile_ThenMessageIsReturned&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::AE56CB19-EA66-412E-AFAF-FDE6194E5A53::.NETCoreApp,Version=v3.1::Meter.Api.UnitTests.CsvHelperTests.GetMeterReading_WhenIUploadValidCsvFile_ThenListIsReturned&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::AE56CB19-EA66-412E-AFAF-FDE6194E5A53::.NETCoreApp,Version=v3.1::Meter.Api.UnitTests.MeterReadingExtensionTests.ToApplicationMeterReading_MapMeterReading_ReturnsValidToApplicationMeterReading&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::68BB9738-DF4B-4A56-B589-B279B7261FF3::.NETCoreApp,Version=v3.1::Meter.Services.UnitTests.UnitTest1.ProcessMeterReadings_ValidReadings_ReturnsAllSuccessfulRecords&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::68BB9738-DF4B-4A56-B589-B279B7261FF3::.NETCoreApp,Version=v3.1::Meter.Services.UnitTests.UnitTest1.ProcessMeterReadings_InValidReadings_ReturnsAllSuccessfulRecords&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::68BB9738-DF4B-4A56-B589-B279B7261FF3::.NETCoreApp,Version=v3.1::Meter.Services.UnitTests.UnitTest1&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::68BB9738-DF4B-4A56-B589-B279B7261FF3::.NETCoreApp,Version=v3.1::Meter.Services.UnitTests.MeterServiceUnitTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::68BB9738-DF4B-4A56-B589-B279B7261FF3::.NETCoreApp,Version=v3.1::Meter.Services.UnitTests.MeterReadingValidatorTests.GetValidRecords_AllValidRecords_ReturnsAllSuccessfulRecords&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::68BB9738-DF4B-4A56-B589-B279B7261FF3::.NETCoreApp,Version=v3.1::Meter.Services.UnitTests.MeterReadingValidatorTests.GetValidRecords_MeterReadingExists_ReturnsOnlyValidRecords&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::68BB9738-DF4B-4A56-B589-B279B7261FF3::.NETCoreApp,Version=v3.1::Meter.Services.UnitTests.MeterReadingValidatorTests.GetValidRecords_UserAccountDoesntExist_ReturnsOnlyValidRecords&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::68BB9738-DF4B-4A56-B589-B279B7261FF3::.NETCoreApp,Version=v3.1::Meter.Services.UnitTests.MeterReadingValidatorTests.GetValidRecords_InValidReadingValueFormat_ReturnsOnlyValidRecords&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::68BB9738-DF4B-4A56-B589-B279B7261FF3::.NETCoreApp,Version=v3.1::Meter.Services.UnitTests.MeterReadingExtensionTests.ToDomainMeterReading_MapMeterReading_ReturnsValidDomainMeterReadingObject&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2163F508-09C5-40B9-913C-747DC6109BE8::.NETCoreApp,Version=v3.1::Meter.Infrastructure.Tests.MeterReadingExtensionTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2163F508-09C5-40B9-913C-747DC6109BE8::.NETCoreApp,Version=v3.1::Meter.Infrastructure.Tests.Repositories.AccountRepositoryTests.Exists_DatabaseFails_ReturnsFalse&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2163F508-09C5-40B9-913C-747DC6109BE8::.NETCoreApp,Version=v3.1::Meter.Infrastructure.Tests.Repositories.AccountRepositoryTests.Exists_EmptyDatabase_ReturnsFalse&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

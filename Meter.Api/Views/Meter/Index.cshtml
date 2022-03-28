@@ -1,0 +1,17 @@
+
+@{
+    ViewData["Title"] = "index";
+}
+<head>
+    <style>
+        * {
+            font-size: 20px;
+        }
+    </style>
+</head>
+<form enctype="multipart/form-data" asp-controller="Meter" method="post" action="/meter-reading-uploads">
+    
+               <input id="file-upload" asp-for="meterReadingFile" name="meterReadingFile" type="file">
+               <span asp-validation-for="meterReadingFile"></span>
+               <input class="btn" type="submit" />
+</form>

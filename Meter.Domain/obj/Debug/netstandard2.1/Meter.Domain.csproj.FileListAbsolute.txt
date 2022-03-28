@@ -1,0 +1,9 @@
+/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Domain/bin/Debug/netstandard2.1/Meter.Domain.deps.json
+/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Domain/bin/Debug/netstandard2.1/Meter.Domain.dll
+/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Domain/bin/Debug/netstandard2.1/Meter.Domain.pdb
+/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Domain/obj/Debug/netstandard2.1/Meter.Domain.csprojAssemblyReference.cache
+/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Domain/obj/Debug/netstandard2.1/Meter.Domain.AssemblyInfoInputs.cache
+/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Domain/obj/Debug/netstandard2.1/Meter.Domain.AssemblyInfo.cs
+/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Domain/obj/Debug/netstandard2.1/Meter.Domain.csproj.CoreCompileInputs.cache
+/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Domain/obj/Debug/netstandard2.1/Meter.Domain.dll
+/Users/hibaeldursi/Desktop/Personal/Ensek/Meter.Api/Meter.Domain/obj/Debug/netstandard2.1/Meter.Domain.pdb
