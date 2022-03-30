@@ -1,7 +1,7 @@
 
 # Meter Reader API
 
-A .NET Core API that accepts a CSV file to be uploaded, validated and stored in a SQL Server Database. 
+A .NET Core API that accepts a CSV file to be uploaded, validated and stored in a SQL Server Database. Please find an example of the CSV at the root level (Meter_Reading.csv). 
 
 
 
