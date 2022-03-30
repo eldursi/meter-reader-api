@@ -109,5 +109,5 @@ Once that's done, right click on Meter.Api and set as start project and select "
 
 ## Feedback
 
-If you have any feedback, please reach out to us at hiba.eldursi.dev@gmail.com
+If you have any feedback, please reach out to me at hiba.eldursi.dev@gmail.com
 
